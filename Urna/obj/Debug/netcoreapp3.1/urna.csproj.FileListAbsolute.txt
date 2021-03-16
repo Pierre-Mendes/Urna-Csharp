@@ -1,0 +1,24 @@
+C:\urna\obj\Debug\netcoreapp3.1\urna.csprojAssemblyReference.cache
+C:\urna\obj\Debug\netcoreapp3.1\urna.AssemblyInfoInputs.cache
+C:\urna\obj\Debug\netcoreapp3.1\urna.AssemblyInfo.cs
+C:\urna\bin\Debug\netcoreapp3.1\urna.exe
+C:\urna\bin\Debug\netcoreapp3.1\urna.deps.json
+C:\urna\bin\Debug\netcoreapp3.1\urna.runtimeconfig.json
+C:\urna\bin\Debug\netcoreapp3.1\urna.runtimeconfig.dev.json
+C:\urna\bin\Debug\netcoreapp3.1\urna.dll
+C:\urna\bin\Debug\netcoreapp3.1\urna.pdb
+C:\urna\obj\Debug\netcoreapp3.1\urna.dll
+C:\urna\obj\Debug\netcoreapp3.1\urna.pdb
+C:\Users\CCE\OneDrive\Área de Trabalho\Urna\bin\Debug\netcoreapp3.1\urna.exe
+C:\Users\CCE\OneDrive\Área de Trabalho\Urna\bin\Debug\netcoreapp3.1\urna.deps.json
+C:\Users\CCE\OneDrive\Área de Trabalho\Urna\bin\Debug\netcoreapp3.1\urna.runtimeconfig.json
+C:\Users\CCE\OneDrive\Área de Trabalho\Urna\bin\Debug\netcoreapp3.1\urna.runtimeconfig.dev.json
+C:\Users\CCE\OneDrive\Área de Trabalho\Urna\bin\Debug\netcoreapp3.1\urna.dll
+C:\Users\CCE\OneDrive\Área de Trabalho\Urna\bin\Debug\netcoreapp3.1\urna.pdb
+C:\Users\CCE\OneDrive\Área de Trabalho\Urna\obj\Debug\netcoreapp3.1\urna.csprojAssemblyReference.cache
+C:\Users\CCE\OneDrive\Área de Trabalho\Urna\obj\Debug\netcoreapp3.1\urna.AssemblyInfoInputs.cache
+C:\Users\CCE\OneDrive\Área de Trabalho\Urna\obj\Debug\netcoreapp3.1\urna.AssemblyInfo.cs
+C:\Users\CCE\OneDrive\Área de Trabalho\Urna\obj\Debug\netcoreapp3.1\urna.csproj.CoreCompileInputs.cache
+C:\Users\CCE\OneDrive\Área de Trabalho\Urna\obj\Debug\netcoreapp3.1\urna.dll
+C:\Users\CCE\OneDrive\Área de Trabalho\Urna\obj\Debug\netcoreapp3.1\urna.pdb
+C:\Users\CCE\OneDrive\Área de Trabalho\Urna\obj\Debug\netcoreapp3.1\urna.genruntimeconfig.cache

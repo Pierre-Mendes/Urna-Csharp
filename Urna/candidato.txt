@@ -1,0 +1,13 @@
+1234;José da Silva;1
+5678;Maria Antônia Costa;0
+9012;Pedro Paulo Rosa;0
+3456;Flávio Luís Pereira;0
+7890;Joana D'arc;0
+2345;Valdir Oliveira;0
+6789;Geraldo de Paula Sousa;0
+0123;Aparecida Silveira;0
+4567;Oswaldo de Andrade;0
+8901;Yolanda Silva Pontes;0
+0123;Adriano Farias;0
+0000;Branco;0
+9999;Nulo;2
